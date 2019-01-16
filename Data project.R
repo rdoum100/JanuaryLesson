@@ -8,6 +8,6 @@ df <- data.frame(hospital, patients, costs)
 a <- 50
 b <- 6000
 add function
-
+this is test
 1-pnorm(1.96,0,1)
 1-pnorm(1.8,0,1)
