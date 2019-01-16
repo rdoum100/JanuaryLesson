@@ -10,3 +10,4 @@ b <- 6000
 add function
 
 1-pnorm(1.96,0,1)
+1-pnorm(1.8,0,1)
